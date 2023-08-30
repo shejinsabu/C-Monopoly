@@ -1,0 +1,95 @@
+Property Name: GO
+Property Owner: N/A
+Price: 0
+Owned: True
+Rent: 0
+
+Property Name: Trash Panda Drinking Club
+Property Owner: N/A
+Price: 1000
+Owned: False
+Rent: 100
+
+Property Name: Monkey's Got the Tail
+Property Owner: N/A
+Price: 900
+Owned: False
+Rent: 90
+
+Property Name: Renew Liquor License
+Property Owner: Government
+Price: 0
+Owned: True
+Rent: 200
+
+Property Name: Rabbits Got the Gun
+Property Owner: N/A
+Price: 800
+Owned: False
+Rent: 80
+
+Property Name: Voodoo Queen
+Property Owner: N/A
+Price: 750
+Owned: False
+Rent: 75
+
+Property Name: Lei Low
+Property Owner: N/A
+Price: 850
+Owned: False
+Rent: 85
+
+Property Name: Training Day
+Property Owner: Government
+Price: 0
+Owned: True
+Rent: 20
+
+Property Name: White Rhino
+Property Owner: N/A
+Price: 500
+Owned: False
+Rent: 50
+
+Property Name: Grand Prize Bar
+Property Owner: N/A
+Price: 550
+Owned: False
+Rent: 55
+
+Property Name: BOOZ CRUISE
+Property Owner: Government
+Price: 0
+Owned: True
+Rent: 0
+
+Property Name: Better Luck Tomorrow
+Property Owner: N/A
+Price: 700
+Owned: False
+Rent: 70
+
+Property Name: Heights Beir Garden
+Property Owner: N/A
+Price:1100
+Owned: False
+Rent: 110
+
+Property Name: TABC License Renewel
+Property Owner: Government
+Price: 0
+Owned: True
+Rent: 55
+
+Property Name: Restock
+Property Owner: Government
+Price: 0
+Owned: True
+Rent: 15
+
+Property Name: Anvil Bar and Refuge
+Property Owner: N/A
+Price: 1200
+Owned: False
+Rent: 120
